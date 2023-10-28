@@ -1,6 +1,7 @@
 # Project General Timer  
 **Website** : [https://prakorn2033.github.io/Pc-project/](https://prakorn2033.github.io/Pc-project/)  
 **Demo** : [General Timer](https://prakorn2033.github.io/Pc-project/)  
+**Poster** : [daft.pdf](daft.pdf)  
 **อธิบายโครงงาน**  
 &ensp;อิอิ
 
