@@ -1,6 +1,6 @@
 # Project General Timer  
 **Website** : [https://prakorn2033.github.io/Pc-project/](https://prakorn2033.github.io/Pc-project/)  
-**Demo** : [General Timer](https://prakorn2033.github.io/Pc-project/)  
+**Demo** : [General Timer](https://youtu.be/J6MbOwUNt8I)  
 **Poster** : [Poster.pdf](Poster.pdf)  
 **อธิบายโครงงาน**  
 &ensp;ตัวเครื่อง General Timer ทำมาจากบอร์ด arduino R3  
