@@ -1,7 +1,7 @@
 # Project General Timer  
 **Website** : [https://prakorn2033.github.io/Pc-project/](https://prakorn2033.github.io/Pc-project/)  
 **Demo** : [General Timer](https://prakorn2033.github.io/Pc-project/)  
-**Poster** : [G-U.pdf](G-U.pdf)  
+**Poster** : [Poster.pdf](Poster.pdf)  
 **อธิบายโครงงาน**  
 &ensp;ตัวเครื่อง General Timer ทำมาจากบอร์ด arduino R3  
 และ Infrared Avoidance Obstacle เป็นเซนเซอร์ตรวจจับระยะใกล้  
